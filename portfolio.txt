@@ -1,0 +1,9 @@
+STOCK PORTFOLIO REPORT
+========================================
+
+AAPL | Quantity: 5 | Price: $180 | Investment: $900
+TSLA | Quantity: 3 | Price: $250 | Investment: $750
+GOOGL | Quantity: 7 | Price: $170 | Investment: $1190
+
+========================================
+Total Investment: $2840
